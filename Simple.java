@@ -1,4 +1,4 @@
-public class Simple
+/*public class Simple
 { 
         public static void main(String[] args)
     {
@@ -16,3 +16,23 @@ comments
 //all applications require a main function
 //all lines of code other than classes need a semi colon 
 //must declare variables 
+
+public class Simple {
+
+    public static void main (String[] args)
+    {
+        String name = "Pascal";
+        int age = 20;
+
+        System.out.println(name);
+        System.out.println(age);
+
+
+    }
+}
+
+String course = "CS67"
+int students = 25;
+double grade = 92.5
+boolean passing = true;
+
