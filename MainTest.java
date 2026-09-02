@@ -39,4 +39,4 @@ public class MainTest {
         }
     
 }
-   
+//code not complete, used stack overflow + chatgpt for if statements 
